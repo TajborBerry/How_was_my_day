@@ -1,6 +1,6 @@
 # Feature importance analysis on habits contribution to daily wellbeing
 
-![Feature Importance]("Priority on Habits.png")
+![Feature Importance](Priority_on_Habits.png)
 
 ## 📌 Actions
 Based on the feature importance score of my models I made the following changes:  
