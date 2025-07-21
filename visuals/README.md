@@ -3,7 +3,7 @@
 ![Feature Importance](Priority_on_Habits.png)
 
 ## 📌 Actions
-Based on the feature importance score of my models I made the following changes:  
-    1. Signed up for gym membership  
-    2. Chores of the week are not done adhocly but are part of the weekly plan  
-    3. Early bed time alarm was set up  
+Based on the feature importance score of my model I made the following changes:  
+    1. Enrolled in a gym membership to improve physical well-being.  
+    2. Structured weekly chores into a planned schedule rather than performing them ad hoc.  
+    3. Established an early bedtime alarm to promote better sleep habits.  
